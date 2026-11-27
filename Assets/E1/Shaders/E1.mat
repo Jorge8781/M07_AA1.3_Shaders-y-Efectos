@@ -50,6 +50,7 @@ Material:
     - _Color: {r: 0, g: 6.933769, b: 23.96863, a: 1}
     - _Texture_Tiling: {r: 16, g: 20, b: 0, a: 0}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1
 --- !u!114 &563448132069296749
 MonoBehaviour:
   m_ObjectHideFlags: 11
