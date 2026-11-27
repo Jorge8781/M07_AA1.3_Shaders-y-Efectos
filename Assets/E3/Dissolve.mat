@@ -65,7 +65,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Transition: 0
-    - _TransitionAmount: 0.1
+    - _TransitionAmount: 0
     m_Colors:
     - _TransitionColor: {r: 2.117562, g: 0.2343239, b: 0, a: 1}
   m_BuildTextureStacks: []
